@@ -54,10 +54,3 @@ HDB resale dataset (2017-2020)
 - Marker Cluster of all 4 room flats resale listings
 
 <img width="910" height="558" alt="image" src="https://github.com/user-attachments/assets/49336521-9097-44c6-8ebe-4050f25cc6b1" />
-
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/hdb-resale-trend-analysis.git
-   cd hdb-resale-trend-analysis
