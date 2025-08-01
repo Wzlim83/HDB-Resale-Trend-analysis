@@ -22,7 +22,7 @@ HDB resale dataset (2017-2020)
 
 ## 🧪 Tech Stack
 
-- Python (Pandas, NumPy)
+- Python (Pandas)
 - Matplotlib, folium, heatmap folium plugin, MarkerCluster folium plugin
 - Jupyter Notebooks
 
@@ -36,6 +36,6 @@ HDB resale dataset (2017-2020)
 
 <img width="576" height="444" alt="image" src="https://github.com/user-attachments/assets/37dc935c-2608-48d3-9ab6-13bb524743ef" />
 
-- Resale value of 4 room flats from 2017 to 2020
+- Resale value of select 4 room flats from 2017 to 2020
 
 <img width="620" height="429" alt="image" src="https://github.com/user-attachments/assets/5d86b575-8467-4d64-92a4-50ce9131992d" />
