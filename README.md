@@ -28,7 +28,7 @@ HDB resale dataset (2017-2020)
 
 ## 📉 Sample Visualizations
 
-- Average resale value for lease years remaining
+- Average resale value for lease years remaining<b>
 
 <img width="617" height="442" alt="image" src="https://github.com/user-attachments/assets/6466b38f-e523-4bfa-b44a-0a30d86234d0" />
 
