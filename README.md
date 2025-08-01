@@ -27,13 +27,6 @@ HDB resale dataset (2017-2020)
 - Jupyter Notebooks
 
 ## 📉 Sample Visualizations
-- Number of resale flats in each town                                                                                                   
-
-<img width="592" height="546" alt="image" src="https://github.com/user-attachments/assets/35a866b2-916f-451f-8f82-679454b9e006" />     
-
-- Average resale value of flats in each town
-
-<img width="610" height="544" alt="image" src="https://github.com/user-attachments/assets/3efa98a6-9344-499a-bb0d-78ccacf5e245" />
 
 - Average resale value for lease years remaining
 
@@ -46,11 +39,3 @@ HDB resale dataset (2017-2020)
 - Resale value of 4 room flats from 2017 to 2020
 
 <img width="620" height="429" alt="image" src="https://github.com/user-attachments/assets/5d86b575-8467-4d64-92a4-50ce9131992d" />
-
-- Heat Map of all 4 room flats resale listings
-  
-<img width="803" height="351" alt="image" src="https://github.com/user-attachments/assets/01ed86b1-9be1-47bf-8b06-a13de62aacec" />
-
-- Marker Cluster of all 4 room flats resale listings
-
-<img width="910" height="558" alt="image" src="https://github.com/user-attachments/assets/49336521-9097-44c6-8ebe-4050f25cc6b1" />
