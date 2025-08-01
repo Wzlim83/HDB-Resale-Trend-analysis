@@ -46,4 +46,4 @@ Insights: Larger floor area commands higher resale value.
 
 <img width="620" height="429" alt="image" src="https://github.com/user-attachments/assets/5d86b575-8467-4d64-92a4-50ce9131992d" />
 
-Insights: Woodlands has the lowest resale value which provides a possible option for flat buyers looking for bargain. Tampine and Ponggol 
+Insights: Woodlands has the lowest resale value which provides a possible option for flat buyers looking for bargain. Tampine and Punggol seems quite similar in resale value. Buyers may need to consider other factors like proximity to amenities when making decision. 
