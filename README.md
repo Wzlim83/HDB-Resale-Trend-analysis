@@ -35,6 +35,25 @@ HDB resale dataset (2017-2020)
 
 <img width="610" height="544" alt="image" src="https://github.com/user-attachments/assets/3efa98a6-9344-499a-bb0d-78ccacf5e245" />
 
+- Average resale value for lease years remaining
+
+<img width="617" height="442" alt="image" src="https://github.com/user-attachments/assets/6466b38f-e523-4bfa-b44a-0a30d86234d0" />
+
+- Relationship between floor area and sale price
+
+<img width="576" height="444" alt="image" src="https://github.com/user-attachments/assets/37dc935c-2608-48d3-9ab6-13bb524743ef" />
+
+- Resale value of 4 room flats from 2017 to 2020
+
+<img width="620" height="429" alt="image" src="https://github.com/user-attachments/assets/5d86b575-8467-4d64-92a4-50ce9131992d" />
+
+- Heat Map of all 4 room flats resale listings
+  
+<img width="803" height="351" alt="image" src="https://github.com/user-attachments/assets/01ed86b1-9be1-47bf-8b06-a13de62aacec" />
+
+- Marker Cluster of all 4 room flats resale listings
+
+<img width="910" height="558" alt="image" src="https://github.com/user-attachments/assets/49336521-9097-44c6-8ebe-4050f25cc6b1" />
 
 ## 🚀 Getting Started
 
