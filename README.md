@@ -27,12 +27,13 @@ HDB resale dataset (2017-2020)
 - Jupyter Notebooks
 
 ## 📉 Sample Visualizations
-- Number of resale flats in each town                                                                                                   - Average resale value of flats in each town
+- Number of resale flats in each town                                                                                                   
 
-<img width="592" height="546" alt="image" src="https://github.com/user-attachments/assets/35a866b2-916f-451f-8f82-679454b9e006" />      <img width="610" height="544" alt="image" src="https://github.com/user-attachments/assets/3efa98a6-9344-499a-bb0d-78ccacf5e245" />
+<img width="592" height="546" alt="image" src="https://github.com/user-attachments/assets/35a866b2-916f-451f-8f82-679454b9e006" />     
 
+- Average resale value of flats in each town
 
-
+<img width="610" height="544" alt="image" src="https://github.com/user-attachments/assets/3efa98a6-9344-499a-bb0d-78ccacf5e245" />
 
 
 ## 🚀 Getting Started
