@@ -1,6 +1,6 @@
 # 🏠 HDB Resale Trend Analysis
 
-A comprehensive data analysis project examining historical HDB resale flat transactions in Singapore. This project aims to uncover trends, model pricing behavior, and provide visual insights to help users understand the dynamics of the HDB resale market.
+A data analysis project examining historical HDB resale flat transactions in Singapore. This project aims to uncover trends and provide visual insights to help users understand the dynamics of the HDB resale market.
 
 ## 📌 Project Overview
 
