@@ -23,11 +23,11 @@ HDB resale dataset (2017-2020)
 ## 🧪 Tech Stack
 
 - Python (Pandas, NumPy)
-- Matplotlib, Seaborn, Plotly
+- Matplotlib, folium, heatmap folium plugin, MarkerCluster folium plugin
 - Jupyter Notebooks
 
 ## 📉 Sample Visualizations
-
+-Number of 
 <img width="592" height="546" alt="image" src="https://github.com/user-attachments/assets/35a866b2-916f-451f-8f82-679454b9e006" />
 
 
